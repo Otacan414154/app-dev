@@ -1,5 +1,3 @@
-   # app-dev
-   My first repository
 # My Favorite Shows 🎬
 
 Hi! This is my **first repository**. This README is about my *six favorite shows*.
@@ -17,10 +15,13 @@ Hi! This is my **first repository**. This README is about my *six favorite shows
 
 ---
 
-## My Top 3
+## My Top 6
 1. **True Beauty**
 2. **The Prisoner of Beauty**
 3. **Pursuit of Jade**
+4. **Firefly Wedding**
+5. **What's Wrong with Secretary Kim**
+6. **When Life Gives You Tangerines**
 
 ---
 
@@ -62,7 +63,44 @@ A 2026 Chinese period drama with 40 episodes. Fan Changyu, a butcher's daughter,
 - The *fake marriage turned real love* is my favorite kind of story.
 - Fan Changyu is a **strong and brave** lead character.
 
+---
 
+## Firefly Wedding
+A 2026 Japanese anime that started airing on October 9, 2026. It is about the sickly daughter of a noble who proposes to the assassin who was hired to kill her.
+
+**Main characters**
+- Satoko
+- Shinpei
+
+**Why I love it**
+- The story is **unusual** and different from other romances.
+- The dark and dramatic mood keeps me curious about what happens next.
+
+---
+
+## What's Wrong with Secretary Kim
+A 2018 Korean drama on tvN with 16 episodes. A vice chairman who thinks he is perfect panics when his secretary of many years decides to quit.
+
+**Main cast**
+- Park Seo-joon as Lee Young-joon
+- Park Min-young as Kim Mi-so
+
+**Why I love it**
+- It is a *light and funny* office romance.
+- The two leads have great chemistry.
+
+---
+
+## When Life Gives You Tangerines
+A 2025 Korean drama on Netflix with 16 episodes. It follows a love story and a family across many years in Jeju Island.
+
+**Main cast**
+- IU as Oh Ae-sun
+- Park Bo-gum as Yang Gwan-sik
+
+**Why I love it**
+- It is **emotional** and shows the love between family members.
+- The Jeju Island setting is beautiful.
 
 ---
 
@@ -105,6 +143,3 @@ Look up more details on [MyDramaList](https://mydramalist.com/).
 ![Shows banner](https://placehold.co/600x200?text=My+Favorite+Shows)
 
 ~~Studying~~ Watching shows is my hobby! Use `git` to save my progress.
-![Drama banner](https://placehold.co/600x200?text=My+Favorite+Dramas)
-
-~~Studying~~ Watching dramas is my hobby! Use `git` to save my progress.
