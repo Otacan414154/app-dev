@@ -1,5 +1,5 @@
-p# app-dev
-My first repository
+   # app-dev
+   My first repository
 # My Favorite Shows 🎬
 
 Hi! This is my **first repository**. This README is about my *six favorite shows*.
